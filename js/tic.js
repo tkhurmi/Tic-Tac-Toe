@@ -270,7 +270,7 @@ function myfunc_3() {
     }
 }
   
-function myfunc_4() {
+function enterBoxValue() {
     if (flag == 1) {
         document.getElementById("b2").value = "X";
         document.getElementById("b2").disabled = true;
